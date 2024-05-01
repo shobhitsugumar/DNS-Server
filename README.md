@@ -1,2 +1,2 @@
 # DNS -SERVER 
-## this is a simple DNS SERVER 
+ This is a simple DNS SERVER 
